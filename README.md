@@ -9,8 +9,8 @@ Hard-working web developer with a flair for creating elegant solutions in the le
 *   🌍  I'm based in Prayagraj, Uttar Pradesh.
 *   ✉️  You can contact me at [riyapatel@gmail.com](mailto:riyapatel@gmail.com)
 *   🧠  I'm learning Java Spring and ReactJs.
-*   <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-*  <h3 align="left">Connect with me:</h3>
+  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/riyapatel5321" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="riyapatel5321" height="30" width="40" /></a>
 </p>
